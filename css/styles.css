@@ -1,0 +1,18 @@
+p{
+  margin-left: 30px;
+}
+img {
+  width: 300px;
+  height: 250px;
+}
+.photo{
+  float:left;
+}
+.text{
+  width: 300px;
+  float: left;
+  padding: 30px;
+  background-color: lightpink;
+  border: 2px solid black;
+  margin: 30px;
+}
