@@ -52,3 +52,19 @@ h2 {
   color: #00ff00;
   font-family: cursive;
 }
+
+@media screen and (max-width: 480px) and (min-width: 300px) {
+  body {
+    float: none; }
+  h1 {
+      font-size: 20px;
+      border: none;
+      background-color: white;
+      margin: 0;
+    }
+  }
+}
+
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+
+  }
