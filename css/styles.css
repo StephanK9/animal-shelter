@@ -63,7 +63,6 @@ h2 {
       margin: 0;
     }
   }
-}
 
 @media screen and (max-width: 480px) and (min-width: 300px) {
   body {
@@ -75,4 +74,3 @@ h2 {
       margin: 0;
     }
   }
-}
