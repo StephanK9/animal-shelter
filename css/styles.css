@@ -5,6 +5,14 @@ img {
   width: 300px;
   height: 250px;
 }
+h1 {
+  color: #33cccc;
+  border: 3px solid #33cccc;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding: 25px;
+  background-color: lightpink;
+}
 .photo{
   float:left;
 }
@@ -15,4 +23,14 @@ img {
   background-color: lightpink;
   border: 2px solid black;
   margin: 30px;
+}
+
+.puppy h2 {
+  color: #4d2800;
+}
+.kitty h2 {
+  color: #6600ff;
+}
+.piggy h2 {
+  color: #00ff00;
 }
